@@ -2,7 +2,7 @@
 
 One DOM to bring them all and in the browsers bind them.
 
-What you're working with here is a lightweight version of jquery, with only the essentials needed to manipulate DOM.
+What you're working with here is a lightweight, DOM querying library, with only the essentials needed to manipulate DOM.
 
 DOM Corleone uses the DOM documentation by MDN(https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model) to provide the same following functionality:
 
